@@ -15,7 +15,7 @@ public class FastRod extends JavaPlugin implements Listener
     
     @EventHandler
     public void rod(final ProjectileLaunchEvent e) {
-        final double v = 5.0;
+        final double v = 5.0; //<--To make the rod even faster just change the value right here. ex. 7.0
         if (e.getEntityType().equals((Object)EntityType.FISHING_HOOK)) {
             e.getEntity().setVelocity(e.getEntity().getVelocity().multiply(v));
         }
