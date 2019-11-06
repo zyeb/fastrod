@@ -13,10 +13,8 @@ public class Main extends JavaPlugin implements CommandExecutor, Listener
     public static Main instance;
     public static File file;
     public static Boolean debug;
-    private boolean allowSpies;
     public static Object plugin;
     private FileConfiguration config;
-    private String msgPrefix;
     
     static {
         Main.debug = false;
@@ -47,13 +45,5 @@ public class Main extends JavaPlugin implements CommandExecutor, Listener
     
     public static Main getInstance() {
         return Main.instance;
-    }
-    
-    public boolean getAllowSpies() {
-        return this.allowSpies;
-    }
-    
-    public String getMsgPrefix() {
-        return this.msgPrefix;
     }
 }
