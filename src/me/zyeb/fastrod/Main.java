@@ -22,6 +22,7 @@ public class Main extends JavaPlugin implements CommandExecutor, Listener
     
     public void onEnable() {
         final PluginManager pm = Bukkit.getServer().getPluginManager();
+        Bukkit.getServer().getPluginManager().registerEvents(new GUI(), this);
         (Main.instance = this).saveDefaultConfig();
         this.config = this.getConfig();
         this.config.options().copyDefaults(true);
