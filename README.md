@@ -40,7 +40,7 @@ You may set up this project locally by just compiling the plugin into any IDE su
 There are no prerequisites for FastRod.
 
 <!-- COMPATIBILITY -->
-## Compatibility
+### Compatibility
 
 FastRod is compatible with 1.7 and 1.8.
 
