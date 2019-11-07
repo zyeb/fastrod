@@ -43,7 +43,5 @@ Compile the plugin into a .jar file and put it into the plugins folder or downlo
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+_This plugin sets the hook velocity to a certain value than you can find in the FastRod class. Higher the value is faster the hook is and the opposite._
 
