@@ -24,6 +24,7 @@
 * [License](#license)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
+  * [Compatibility] (#compatibility)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Contact](#contact)
@@ -37,6 +38,11 @@ You may set up this project locally by just compiling the plugin into any IDE su
 ### Prerequisites
 
 There are no prerequisites for FastRod.
+
+<!-- COMPATIBILITY -->
+## Compatibility
+
+FastRod is compatible with 1.7 and 1.8.
 
 ### Installation
 
