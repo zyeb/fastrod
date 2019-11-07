@@ -52,3 +52,9 @@ _This plugin sets the hook velocity to a certain value than you can find in the 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+<!-- CONTACT -->
+## Contact
+
+Justin aka zyeb - [@zyebbo](https://t.me/zyebbo)
+
+Project Link: [https://github.com/zyeb/fastrod](https://github.com/zyeb/fastrod)
