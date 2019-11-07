@@ -26,3 +26,16 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Contact](#contact)
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+You may set up this project locally by just compiling the plugin into any IDE such as Elicpse & IntelliJ or many others.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+```sh
+npm install npm@latest -g
+```
