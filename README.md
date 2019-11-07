@@ -14,5 +14,6 @@
     <a href="https://github.com/zyeb/fastrod/issues">Report Bug</a>
     ·
     <a href="https://github.com/zyeb/fastrod/issues">Request Feature</a>
+    ·
   </p>
 </p>
