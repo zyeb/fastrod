@@ -35,4 +35,7 @@ You may set up this project locally by just compiling the plugin into any IDE su
 ### Prerequisites
 
 There are no prerequisites for FastRod
-* no prerequisites
+
+### Installation
+
+Compile the plugin into a .jar file and put it into the plugins folder or download a prebuilt version of the plugins from <a href="https://github.com/zyeb/fastrod/releases">
