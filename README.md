@@ -35,7 +35,4 @@ You may set up this project locally by just compiling the plugin into any IDE su
 ### Prerequisites
 
 There are no prerequisites for FastRod
-* npm
-```sh
-no prerequisites
-```
+* no prerequisites
