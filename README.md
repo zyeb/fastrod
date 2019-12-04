@@ -56,6 +56,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Telegram - [@zyebbo](https://t.me/zyebbo)
-Discord - zyeb#1081
+Discord - zyeb#1337
 
 Project Link: [https://github.com/zyeb/fastrod](https://github.com/zyeb/fastrod)
