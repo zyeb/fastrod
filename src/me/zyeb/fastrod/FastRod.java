@@ -7,11 +7,6 @@ import org.bukkit.event.*;
 
 public class FastRod implements Listener
 {
-    public void onEnable() {
-    }
-    
-    public void onDisable() {
-    }
     
     @EventHandler
     public void rod(final ProjectileLaunchEvent e) {
