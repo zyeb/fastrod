@@ -5,7 +5,7 @@ import org.bukkit.event.entity.*;
 import org.bukkit.entity.*;
 import org.bukkit.event.*;
 
-public class FastRod extends JavaPlugin implements Listener
+public class FastRod implements Listener
 {
     public void onEnable() {
     }
