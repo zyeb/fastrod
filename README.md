@@ -40,7 +40,7 @@ There are no prerequisites for FastRod.
 
 ### Installation
 
-Compile the plugin into a .jar file and put it into the plugins folder or download a prebuilt version of the plugins from the <a href="https://github.com/zyeb/fastrod/releases">Releases</a> tab.
+Compile the plugin into a .jar file and put it into the server's plugins folder.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
